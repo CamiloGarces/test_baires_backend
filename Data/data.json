@@ -1,0 +1,17 @@
+{
+    "tuits": [
+        {
+            "id": "0",
+            "twit": "Frist Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+       
+        },
+        {
+            "id": "1",
+            "twit": "Second Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+        },
+        {
+            "id": "1",
+            "twit": "Second Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+        }
+    ]
+}
